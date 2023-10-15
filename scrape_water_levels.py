@@ -21,7 +21,7 @@ def print_list_with_water_levels(html):
 
     line = html[start_index+5:end_index]
 
-    print("Tag "+line[:9])
+    print("Tag "+line[:10])
     print("Zeit "+line[11:16])
     print("Stand "+line[41:])
   
